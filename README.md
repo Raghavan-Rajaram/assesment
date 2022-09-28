@@ -1,4 +1,4 @@
-# candidate-homework
+# Initial Interview Screening for Right Candi
 Standard homework for aspiring job in singapore to filter the first level of process for right candidates.
 
 
