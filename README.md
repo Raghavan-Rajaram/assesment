@@ -1,4 +1,4 @@
-# Initial Interview Screening for Right Candi
+# Initial Interview Screening for Right Candidates
 Standard homework for aspiring job in singapore to filter the first level of process for right candidates.
 
 
