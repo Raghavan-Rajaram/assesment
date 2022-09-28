@@ -4,7 +4,7 @@
 # Exadel-Tasks
 
 
-## [Task 1: Git/GitHub](https://github.com/Frankpromise/Devops-internship-task/tree/master/Git-Github) 
+## Task 1: Git/GitHub 
 Additional information:
 1.	Read about Git https://git-scm.com/doc
  
@@ -30,7 +30,7 @@ Tasks:
 
 
 
-## [Task 2: AWS Cloud](https://github.com/Frankpromise/Devops-internship-task/tree/master/AWS-cloud)
+## Task 2: AWS Cloud
 (Note. The assignment is written using AWS as an example. You can complete the assignment using any cloud services.)
 
 Before completing this task, it is recommend check this video:
@@ -69,7 +69,8 @@ The result of this task is a link in your github to the “Hello World” web pa
 
 
 
-## [Task 3: Terraform/IaC introduction](https://github.com/Frankpromise/Devops-internship-task/tree/master/Terraform)
+## Task 3: Terraform/IaC introduction
+
 (Note. The assignment is written using AWS as an example. You can complete the assignment using any cloud services.)
 
 Important moments:
@@ -90,7 +91,9 @@ Both instances must have a tag with names.
 5.	On EC2 Ubuntu install Docker, installation should be done according to the recommendation of the official Docker manuals 
 
 
-## [using Terraform modules](https://github.com/Frankpromise/Devops-internship-task/tree/master/Terraform-modules)
+## using Terraform modules
+
+
 EXTRA:
 
 6.	Complete  step 1, but AMI ID cannot be hardcoded. You can hardcode operation system name, version, etc. 
@@ -104,7 +107,7 @@ The result of step EXTRA 8, is or scripts (if you have one), or an explanation o
 
 
 
-## [Task 4: Docker](https://github.com/Frankpromise/Devops-internship-task/tree/master/docker)
+## Task 4: Docker
 
 Docs:
 1.	Read documentation about docker (https://docs.docker.com/)
@@ -142,7 +145,7 @@ EXTRA 5.1. Use env files to configure each service.
 The task results is the docker/docker-compose files in your GitHub repository
 
 
-## [Task 5: Ansible for beginners](https://github.com/Frankpromise/Devops-internship-task/tree/master/Ansible)
+## Task 5: Ansible for beginners
  
 Important points:
  
@@ -167,7 +170,7 @@ EXTRA 3. For the execution of playbooks, dynamic inventory must be used (GALAXY 
 The result of this task will be ansible files in your GitHub.
  
 
-## [Task 6: Jenkins. Automate, Manage and Control](https://github.com/Frankpromise/Devops-internship-task/tree/master/TASK6)
+## Task 6: Jenkins. Automate, Manage and Control
  
 Important points:
 1.	Read about Jenkins. What is Jenkins and what is it used for? Ways of using. What is a declarative and imperative approach? 
@@ -188,7 +191,7 @@ EXTRA:
 3. Deploy a local docker registry, upload a docker image there, download img from your local docker registry and run the container.
 4. Configure integration between Jenkins and your Git repo. Jenkins project must be started automatically if you push or merge to master, you also must see Jenkins last build status(success/unsuccess)   in your Git repo.
 
-## [Task 7: Logging & Monitoring](https://github.com/Frankpromise/Devops-internship-task/tree/master/zabix)
+## Task 7: Logging & Monitoring
 
 Tasks:
 1. Zabbix:
@@ -235,7 +238,7 @@ EXTRA 2.4: Set up filters on the Logstash side (get separate docker_container an
 
 3.4 Study features and settings
 
-## [Task 8: K8s, Clouds, CI/CD. Just do it!](Task8)
+## Task 8: K8s, Clouds, CI/CD. Just do it!
 
 **Important points:**
 
